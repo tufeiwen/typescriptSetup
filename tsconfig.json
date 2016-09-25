@@ -1,0 +1,9 @@
+{
+        "compilerOptions": {
+        "target": "es5", 
+        "outDir": "jsScripts/",
+        "sourceMap": true
+    }    
+
+}
+//build output directory and source map for debugging
